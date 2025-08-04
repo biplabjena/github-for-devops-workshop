@@ -5,3 +5,11 @@ git commit . -m "first commit"
 
 
 I am adding some new changes
+
+git branch
+git branch dev - copy master to dev
+
+git switch dev - switch to branch dev
+
+
+
